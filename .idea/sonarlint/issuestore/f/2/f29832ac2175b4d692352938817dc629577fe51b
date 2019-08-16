@@ -1,0 +1,18 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ÆÓžà8•¬Ø–É-
+Isquid:S1068"+Remove this unused "btnPlus" private field.(´¹ñú8à¹–É-
+Msquid:S1068"*Remove this unused "btnDiv" private field.(ûÖàŸþÿÿÿÿ8ÿÓ»–É-
+Msquid:S1068"*Remove this unused "btnMul" private field.(”‡þÿùÿÿÿÿ8•¬Ø–É-
+Osquid:S1068",Remove this unused "lblTotal" private field.(Úž´¦þÿÿÿÿ8•¬Ø–É-
+Isquid:S1068"+Remove this unused "btnRest" private field.(ÿöãå8¨¿º–É-
+~squid:S00116
+"ZRename this field "MathsOperations" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘¸ÇÜþÿÿÿÿ8•¬Ø–É-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûû¯¢þÿÿÿÿ
+Ksquid:S1068"-Remove this unused "lblWrite1" private field.(Ù³÷ñ8–¼Á–É-
+Asquid:S1700
+"Rename field "MathsOperations"(‘¸ÇÜþÿÿÿÿ8•¬Ø–É-
+Ssquid:S1068"0Remove this unused "txtNumberTwo" private field.(™ô‰ÿÿÿÿÿ8Ë¸À–É-
+Šsquid:S00116"fRename this field "OPTIONMathsOperationsButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç³ôûúÿÿÿÿ8•¬Ø–É-
+Ssquid:S1068"0Remove this unused "txtNumberOne" private field.(ôÃ‹çýÿÿÿÿ8°Ù¿–É-
+Ksquid:S1068"-Remove this unused "lblWrite2" private field.(ê¶×8•¬Ø–É-
+bsquid:S1068"?Remove this unused "OPTIONMathsOperationsButton" private field.(Ç³ôûúÿÿÿÿ8¢Äù•É-
